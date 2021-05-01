@@ -1,0 +1,1 @@
+del C:\Java\Socket\0611board\board-game\client\*.class /f /s /q /a
